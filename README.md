@@ -315,6 +315,13 @@ JavaScript defines seven built-in types:
 ```ArrayBuffer```, ```DataView```, ```Int8Array```, ```Uint8Array```, ```Uint8ClampedArray```, ```Int16Array```, ```Uint16Array```, ```Int32Array```, ```Uint32Array```, ```Float32Array```, ```Float64Array```.
 
 
+## U:
+
+#### ```URI/URL difference```
+**URI** - Uniform Resource Identifier. URI is a string of characters that unambiguously identifies a particular resource.
+**URL** - Uniform Resource Locator. URL is a reference to a web resource that specifies its location on a computer network and a mechanism for retrieving it.
+**URI** includes **URL** and **URN** - Uniform Resource Name(for identification a resource)
+
 ## W:
 
 #### ```WeakMap```
